@@ -1,0 +1,10 @@
+[package]
+name = "at"
+version = "0.1.0"
+edition = "2024"
+description = "Heap-free, no_std AT command client with optional modem support"
+readme = "README.md"
+
+[features]
+default = []
+a76xx = []
